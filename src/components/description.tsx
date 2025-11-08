@@ -27,7 +27,7 @@ useEffect(() => {
 
       obj.addEventListener("click", toggleText);
 
-      clearInterval(interval); // ya encontramos el objeto
+      clearInterval(interval); 
     }
   }, 100);
 
